@@ -1,0 +1,40 @@
+.container{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.container img{
+  height: 100vh;
+}
+
+.container h1{
+  margin-bottom: 550px;
+  position: absolute;
+  color: white;
+}
+
+.search{
+  margin-bottom: 350px;
+  position: absolute;
+}
+
+.wetherBox{
+  margin: auto;
+  width: 330px;
+  height: 200px;
+  position: absolute;
+}
+
+.weatherCity{
+  color: white;
+  font-size: 60px;
+  margin-top: 15px;
+}
+
+.tempCity{
+  color: white;
+  font-size: 40px;
+
+}
